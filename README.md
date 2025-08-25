@@ -11,7 +11,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="👨‍💻" width="35" /> About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 
 I'm a passionate **diploma student** specializing in **AI/ML** and **backend development**. As a dedicated nocturnal coder, I find my peak creativity during late-night coding sessions, where complex problems transform into elegant solutions.
 
